@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AulaApiDevOpsPiagetManha", "AulaApiDevOpsManhaPiaget\AulaApiDevOpsPiagetManha.csproj", "{BFAD6383-3A50-455D-B9D5-BE7145316681}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFAD6383-3A50-455D-B9D5-BE7145316681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFAD6383-3A50-455D-B9D5-BE7145316681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFAD6383-3A50-455D-B9D5-BE7145316681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFAD6383-3A50-455D-B9D5-BE7145316681}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E302D75-3E98-4155-94CF-10034D4913B8}
+	EndGlobalSection
+EndGlobal
